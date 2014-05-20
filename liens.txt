@@ -9,3 +9,6 @@ http://guidella.free.fr/General/symfony2SfBookpage_creation.html
 
 #CSS évolitif
 http://www.alsacreations.com/livres/lire/1594-SMACSS-architecture-evolutive-et-modulable-des-css.html
+
+#parallelisation-des-chargements avec SPIP
+http://www.paris-beyrouth.org/tutoriaux-spip/article/parallelisation-des-chargements

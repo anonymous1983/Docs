@@ -3,7 +3,6 @@
 #Symfony2
 http://symfonic.fr/fr/2012/08/gestion-cache-http-avec-symfony2/
 
-
 #Symfony2 :: creation d'une page
 http://guidella.free.fr/General/symfony2SfBookpage_creation.html
 
@@ -12,3 +11,25 @@ http://www.alsacreations.com/livres/lire/1594-SMACSS-architecture-evolutive-et-m
 
 #parallelisation-des-chargements avec SPIP
 http://www.paris-beyrouth.org/tutoriaux-spip/article/parallelisation-des-chargements
+
+#Entretien Skype
+http://www.cadremploi.fr/editorial/conseils/conseils-carriere/detail/article/jai-teste-lentretien-dembauche-via-skype.html
+
+#Entretien Questions
+1- Pourquoi vous et pas un autre
+2- Qualités et défauts
+3- Votre motivation
+4- Pour quoi la france
+5- pour quoi vous volez sortir de votre boite
+6- comment voyez vous dans 5 ans
+7- pou quoi vous volez quiter votre derniere poste
+8- Avez vous des questions
+
+http://www.youtube.com/watch?v=ssOaFe01I1c
+
+
+#157 qualités humaines… à mettre en avant !
+
+http://questionsdemploi.typepad.fr/questionsdemploi/72-qualit%C3%A9s-%C3%A0-mettre-en-avant-.html
+
+http://questionsdemploi.typepad.fr/questionsdemploi/les-25-questions-les-plus.html

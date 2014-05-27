@@ -1,0 +1,60 @@
+HTTP, en général > Quels protocoles sécurisent le protocole HTTP ?
+
+Algorithmique > Quel principe définit la structure d'une pile ?
+
+Symfony2, Console > Comment ajouter une nouvelle commande à la console ?
+
+Symfony2, DependencyInjection > Est-il possible de créer un service qui ne soit pas accessible publiquement ?
+
+Symfony2, écosystème et interopérabilité > Comment s'appelle le contributeur le plus présent sur les pull-requests assurant le respect des bonnes pratiques ?
+
+HTTP, requête-réponse > Quelles en-têtes peuvent être attachées à une requête HTTP ?
+
+Symfony2, Form > Quelle(s) méthode(s) un DataTransformer doit implémenter ?
+
+Sécurité > Quelle est le rôle d'une fonction de chiffrement ?
+
+HTTP, cache > Quelles sont les directives que l'on peut trouver dans l'en-tête "Cache-Control" ?
+
+Symfony2, écosystème et interopérabilité > Quel mécanisme sur Github est utilisé pour gérer les développements de Symfony (et des autres projets sur Github) ?
+
+HTTP, cache > Est-ce que la directive "max-age" fait partie de l'en-tête "Cache-Control" ?
+
+Base de Données > Quelles sont les fonctionnalités proposées par le moteur de stockage MyISAM ?
+
+Sécurité > Quel est le nouveau nom de SSL ?
+
+Symfony2, DependencyInjection > Quelle mécanisme permet d'aggréger des services par métier dans le conteneur de services ?
+
+Symfony2, Security > Est-il possible de permettre plusieurs type d'authentification pour un même firewall (ex: form_login + http_basic) ?
+
+Patrons de conception > Quelle est la définition du patron de conception fabrique (Factory Method) ?
+
+Mise en pratique > Citez 4 formes de jointures possibles avec MySQL ?
+
+Symfony2, Translation > Quelle(s) méthode(s) doit implémenter un Symfony\Component\Translation\Loader\LoaderInterface
+
+Symfony2, Validation > Parmi les contraintes de validation suivantes, lesquelles existent dans Symfony ?
+
+PHP, application de POO > Qu'affiche l'exemple ci-dessous (avec PHP5.4) ?
+
+Outils > Triez les actions dans l'ordre qui est préconisé pour faire du TDD ?
+
+Acronymes > Que signifie l'acronyme URL ?
+
+Symfony2, bootstrap et composer > Afin d'enregistrer un nouveau bundle dans mon application Symfony2, il m'est nécessaire de
+
+Symfony2, assetic > Comment rajouter un nouveau filtre Assetic ?
+
+Symfony2, Security > Est-il possible de disposer d'un firewall différent pour les URI /admin et /front ?
+
+Symfony2, HttpFoundation > Quelles sont les possibilités pour obtenir le service "request" au sein d'une action ?
+
+PHP, application de POO > En PHP 5, l'exemple suivant fonctionne-t'il ?
+
+Symfony2, contrôleurs > Quel est le type de données renvoyé par la méthode renderView() de la classe Controller du FrameworkBundle ?
+
+Symfony2, assetic > Dans Symfony2, la plupart des filtres assetic n'ont besoin d'aucune dépendance externe afin de fonctionner
+
+
+
